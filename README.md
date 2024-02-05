@@ -1,5 +1,5 @@
 # cusps_quench_dynamics
-Matlab codes used to generate the figures in the paper 'Cusps in the quench dynamics of a Bloch state', EPL 114, 60001 (2016). 
+Matlab codes used to generate figures in the paper 'Cusps in the quench dynamics of a Bloch state', EPL 114, 60001 (2016). 
 
 https://iopscience.iop.org/article/10.1209/0295-5075/114/60001 
 
